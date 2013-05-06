@@ -14,7 +14,7 @@
     var defaults = {
 		themes: [],
 		themesPath: '/',
-        buttonSettings: {
+		buttonSettings: {
 			'icon': 'gear',
 			'inline': true,
 			'shadow': false,
@@ -29,8 +29,8 @@
 		},
 		jqmVersion: '1.3.1',
 		cookiename: "jquery-mobile-theme",
-        cookieexpires: 365,
-        cookiepath: '/'		
+		cookieexpires: 365,
+		cookiepath: '/'		
     };
 
     // plugin constructor
