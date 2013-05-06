@@ -3,7 +3,7 @@
  * https://github.com/demonslord/jqm-themeswitcher
  * Copyright (c) 2013 Alexander Bulei.
  * Licensed under the MIT, GPL licenses.
- * Version: V1.0.1
+ * Version: V1.0.2
  */
 
 ;(function ($, window, document, undefined) {
